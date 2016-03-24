@@ -5,10 +5,10 @@ package main
 
 import (
 	"time"
-	"github.com/go/pake"
+	"github.com/Bulesxz/go/pake"
 	"encoding/json"
 	"fmt"
-	"github.com/go/net"
+	"github.com/Bulesxz/go/net"
 )
 
 
@@ -35,12 +35,18 @@ func main() {
 		fmt.Println("c.ConnetcTimeOut err|",err)
 		return 
 	}
-	
-	err=c.Send(buf)
+	recvBuf,err:=c.SendTimeOut(10*time.Second,buf)
 	if err!=nil {
 		fmt.Println("c.Send err|",err)
 		return 
 	}
+	//fmt.Println("recvBuf:",recvBuf)
+	
+	/*err=c.Send(buf)
+	if err!=nil {
+		fmt.Println("c.Send err|",err)
+		return 
+	}*/
 	/*var receiveBuf []byte
 	err =c.Receive(&receiveBuf)
 	if err!=nil {
@@ -48,12 +54,12 @@ func main() {
 		return 
 	}
 	fmt.Println("receiveBuf:",receiveBuf)
-	
+	*/
 	var rsp pake.LoginRsp
-	p:=mes.Decode(receiveBuf)
+	p:=mes.Decode(recvBuf)
 	json.Unmarshal(p.GetBody(),&rsp)
 	
 	fmt.Println("rsp:",rsp)
-	c.Close()*/
-	time.Sleep(time.Second*10)
+	c.Close()
+	//time.Sleep(time.Second*10)
 }
