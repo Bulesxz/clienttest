@@ -35,31 +35,28 @@ func main() {
 		fmt.Println("c.ConnetcTimeOut err|",err)
 		return 
 	}
-	recvBuf,err:=c.SendTimeOut(10*time.Second,buf)
-	if err!=nil {
-		fmt.Println("c.Send err|",err)
-		return 
+	begin := time.Now().UnixNano()
+	times:=200000
+	for i:=0;i<times;i++{
+		
+		recvBuf,err:=c.SendTimeOut(2*time.Second,buf)
+		if err!=nil {
+			fmt.Println("c.Send err|",err)
+			return 
+		}
+		if recvBuf!=nil{
+			var rsp pake.LoginRsp
+			p:=mes.Decode(recvBuf)
+			json.Unmarshal(p.GetBody(),&rsp)
+			
+			fmt.Println("rsp:",rsp)
+		}
+		
 	}
-	//fmt.Println("recvBuf:",recvBuf)
-	
-	/*err=c.Send(buf)
-	if err!=nil {
-		fmt.Println("c.Send err|",err)
-		return 
-	}*/
-	/*var receiveBuf []byte
-	err =c.Receive(&receiveBuf)
-	if err!=nil {
-		fmt.Println("c.Receive err|",err)
-		return 
-	}
-	fmt.Println("receiveBuf:",receiveBuf)
-	*/
-	var rsp pake.LoginRsp
-	p:=mes.Decode(recvBuf)
-	json.Unmarshal(p.GetBody(),&rsp)
-	
-	fmt.Println("rsp:",rsp)
+	end := time.Now().UnixNano()
+	usetime := float64(end-begin) / float64(1000000)
+	fmt.Println("qps ",float64(times)/(usetime/1000))
+	fmt.Println("tps ",usetime/float64(times),"ms")
 	c.Close()
 	//time.Sleep(time.Second*10)
 }
