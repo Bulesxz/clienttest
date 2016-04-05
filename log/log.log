@@ -1,212 +1,220 @@
-2016-04-05:13:14:11[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:18 |frhtynh
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:14:13[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:15:36[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:07[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:16:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:12[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:89 |timeout
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:17:52[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:114 |!ok 关闭 this.recvBuf
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:115 |!ok 关闭 this.recvBuf
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:115 |!ok 关闭 this.recvBuf
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:115 |!ok 关闭 this.recvBuf
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:115 |!ok 关闭 this.recvBuf
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:115 |!ok 关闭 this.recvBuf
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:115 |!ok 关闭 this.recvBuf
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:115 |!ok 关闭 this.recvBuf
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:115 |!ok 关闭 this.recvBuf
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:115 |!ok 关闭 this.recvBuf
-2016-04-05:13:19:29[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:115 |!ok 关闭 this.recvBuf
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:20:41[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:28:30[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:30:50[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:30:50[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:31:15[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:31:15[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:33:05[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:33:05[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:37:08[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:37:08[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:39:35[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:39:35[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:13:39:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:13:39:49[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:14:00:44[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:14:00:44[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:14:05:53[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:14:05:53[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:14:06:20[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:14:06:20[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:14:07:59[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:14:07:59[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:14:23:25[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:14:23:25[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:14:24:11[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:14:24:11[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:14:30:31[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:14:30:31[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:14:32:25[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:14:32:25[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:14:40:25[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:90 |timeout
-2016-04-05:14:40:25[LOG_INFO]G:/gopath/src/github.com/Bulesxz/go/net/client.go:116 |!ok 关闭 this.recvBuf
-2016-04-05:15:23:26[LOG_DEBUG]G:/gopath/src/github.com/Bulesxz/go/pake/pake.go:161 |id1Register*pake.MessageLogin
+2016-04-05:16:23:56[LOG_DEBUG]G:/gopath/src/github.com/Bulesxz/go/pake/pake.go:161 |id1Register*pake.MessageLogin
+2016-04-05:16:24:38[LOG_DEBUG]G:/gopath/src/github.com/Bulesxz/go/pake/pake.go:161 |id1Register*pake.MessageLogin
+2016-04-05:16:26:24[LOG_DEBUG]G:/gopath/src/github.com/Bulesxz/go/pake/pake.go:161 |id1Register*pake.MessageLogin
+2016-04-05:16:34:29[LOG_DEBUG]G:/gopath/src/github.com/Bulesxz/go/pake/pake.go:161 |id1Register*pake.MessageLogin
+2016-04-05:16:35:33[LOG_DEBUG]G:/gopath/src/github.com/Bulesxz/go/pake/pake.go:161 |id1Register*pake.MessageLogin
+2016-04-05:16:35:37[LOG_DEBUG]G:/gopath/src/github.com/Bulesxz/go/pake/pake.go:161 |id1Register*pake.MessageLogin
+2016-04-05:16:35:59[LOG_DEBUG]G:/gopath/src/github.com/Bulesxz/go/pake/pake.go:161 |id1Register*pake.MessageLogin
+2016-04-05:16:36:15[LOG_DEBUG]G:/gopath/src/github.com/Bulesxz/go/pake/pake.go:161 |id1Register*pake.MessageLogin
+2016-04-05:16:37:40[LOG_DEBUG]G:/gopath/src/github.com/Bulesxz/go/pake/pake.go:161 |id1Register*pake.MessageLogin
+2016-04-05:16:37:59[LOG_DEBUG]G:/gopath/src/github.com/Bulesxz/go/pake/pake.go:161 |id1Register*pake.MessageLogin
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50367: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50367: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50367: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50385: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50383: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50388: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50387: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50386: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50384: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50379: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50395: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50394: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50393: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50392: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50391: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50390: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50389: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50375: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50382: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50381: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50370: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50380: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50378: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50377: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50369: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50376: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50371: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50374: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50372: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50373: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50366: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:50368: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50385: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50385: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50383: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50383: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50388: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50388: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50387: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50387: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50386: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50386: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50384: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50384: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50379: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50379: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50395: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50395: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50394: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50394: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50393: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50393: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50392: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50392: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50391: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50391: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50390: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50390: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50389: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50389: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50375: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50375: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50382: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50382: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50381: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50381: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50370: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50370: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50380: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50380: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50378: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50378: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50377: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50377: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50369: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50369: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50376: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50376: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50371: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50371: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50374: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50374: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50372: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50372: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50373: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50373: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50366: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50366: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:50368: An existing connection was forcibly closed by the remote host.
+2016-04-05:19:10:46[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:65 |c.Send err|WSARecv tcp 127.0.0.1:50368: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53179: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53179: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53179: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53165: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53166: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53177: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53175: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53161: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53178: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53172: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53167: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53169: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53174: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53176: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53171: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53163: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53164: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53162: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53180: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53168: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53173: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53170: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53165: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53165: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53166: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53166: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53177: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53177: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53175: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53175: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53161: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53161: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53178: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53178: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53172: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53172: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53167: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53167: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53169: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53169: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53174: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53174: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53176: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53176: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53171: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53171: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53163: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53163: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53164: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53164: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53162: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53162: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53180: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53180: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53168: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53168: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53173: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53173: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53170: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:40:02[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53170: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53229: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53229: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53229: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53233: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53232: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53230: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53228: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53235: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53231: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53234: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53247: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53246: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53245: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53244: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53243: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53242: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53241: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53240: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53239: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53238: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53237: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:48 |this.Receive err|WSARecv tcp 127.0.0.1:53236: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53233: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53233: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53232: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53232: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53230: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53230: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53228: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53228: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53235: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53235: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53231: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53231: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53234: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53234: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53247: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53247: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53246: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53246: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53245: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53245: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53244: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53244: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53243: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53243: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53242: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53242: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53241: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53241: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53240: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53240: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53239: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53239: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53238: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53238: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53237: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53237: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/go/net/client.go:103 |this.Send <-errChan err|WSARecv tcp 127.0.0.1:53236: An existing connection was forcibly closed by the remote host.
+2016-04-05:20:42:49[LOG_ERROR]G:/gopath/src/github.com/Bulesxz/clienttest/clienttest.go:61 |c.Send err|WSARecv tcp 127.0.0.1:53236: An existing connection was forcibly closed by the remote host.
