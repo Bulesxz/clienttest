@@ -14,37 +14,36 @@ import (
 func main() {
 
 	fmt.Println("start")
-	//log.Init()
-	log.Error("frhtynh")
 	
 	login := pake.LoginReq{1, 2, "sxz"}
 	ctx := pake.ContextInfo{}
 	ctx.SetSess("session")
-
+	ctx.SetId(pake.LoginId)
 	ctx.SetUserId("125222")
+	ctx.SetSeq(2)
 	mes := &pake.Messages{ctx}
-
-	ctx.Id = pake.LoginId
 
 	b, _ := json.Marshal(login)
 	buf := mes.Encode(b)
-	//log.Info(login, mes, buf)
+
+
 	go net.GloablTimingWheel.Run()
 
-	nclient:=10
+	nclient:=1
 	connChan := make(chan *net.Client, nclient)
 	for i := 0; i < nclient; i++ {
-		fmt.Println("NewClient")
 		c := net.NewClient("tcp", "127.0.0.1:9000")
 		err := c.ConnetcTimeOut(5 * time.Second)
 		if err != nil {
-			fmt.Println("c.ConnetcTimeOut err|", err)
+			//fmt.Println("c.ConnetcTimeOut err|", err)
 			log.Error("c.ConnetcTimeOut err|", err)
 			return
 		}
 		connChan <- c
 		defer c.Close()
 	}
+	//fmt.Println("newclient end.............buf",buf,"len",len(buf))
+	//time.Sleep(10*time.Minute)
 	f := func() bool {
 		var c *net.Client
 		select {
@@ -52,27 +51,32 @@ func main() {
 		default:
 			return false
 		}
-		recvBuf, err := c.SendTimeOut(2*time.Second, buf)
+		
+		recvBuf, err := c.SendTimeOut(3*time.Second, buf)
 		if err != nil {
+			//fmt.Println("c.Send err|", err)
 			log.Error("c.Send err|", err)
 			return false
 		}
+		//fmt.Println("f() SendTimeOut")
 		if recvBuf != nil {
 			var rsp pake.LoginRsp
 			p := mes.Decode(recvBuf)
 			err = json.Unmarshal(p.GetBody(), &rsp)
 			if err != nil {
+				fmt.Println(err)
 				return false
 			}
-			//fmt.Println("rsp:", rsp)
+			fmt.Println("rsp:", rsp)
 		} else {
+			fmt.Println("f() false")
 			return false
 		}
 		connChan <- c
 		return true
 	}
-	var n int32 = 100
-	usetime, failedNum := base.BenchmarkFunc(n, 100, f)
+	var n int32 = 1
+	usetime, failedNum := base.BenchmarkFunc(n, 1, f)
 	fmt.Println("proxy usetime=", usetime, " failedNum=", failedNum, " qps=", float64(n)/(usetime/1000), " tps=", (usetime/float64(n))/1000)
 
 	//time.Sleep(time.Second*10)
