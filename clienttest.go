@@ -85,7 +85,7 @@ func testBenchmark(){
 		return true
 	}
 	
-	var n int32 = 10000
+	var n int32 = 100000
 	usetime, failedNum := base.BenchmarkFunc(n, nclient, f)
 	fmt.Println("proxy usetime=", usetime, " failedNum=", failedNum, " qps=", float64(n)/(usetime/1000), " tps=", (usetime/float64(n))/1000)
 }
@@ -141,6 +141,7 @@ func errpack(wg *sync.WaitGroup,c *net.Client) bool{
 			//fmt.Println("login:",login,"|rsp:",p,id)
 			return false
 		}
+		
 	} else {
 		fmt.Println("recvBuf == nil")
 		return false
@@ -157,6 +158,6 @@ func main() {
 	go net.GloablTimingWheel.Run()
 
 	testBenchmark()
-	testerrpack()
+	//testerrpack()
 
 }
