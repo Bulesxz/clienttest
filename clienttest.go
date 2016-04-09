@@ -149,15 +149,29 @@ func errpack(wg *sync.WaitGroup,c *net.Client) bool{
 	return  true
 }
 
-
+func testRcClient(){
+	mes :=&pake.Messages{}
+	rcclient :=net.NewRcClient("tcp","127.0.0.1:9000")
+	login := pake.LoginReq{1, 2, "sxz"}
+	net.InitPake(mes,pake.LoginId)
+	err:=rcclient.ConnetcTimeOut(time.Second*5)
+	if err!=nil{
+		log.Error(err)
+		return
+	}
+	
+	rsp,err:=rcclient.Call(mes,login,time.Millisecond*10)
+	fmt.Println(rsp,err)
+	
+}
 func main() {
 
 	fmt.Println("start")
-	
 
 	go net.GloablTimingWheel.Run()
 
-	testBenchmark()
+	//testBenchmark()
 	//testerrpack()
 
+	testRcClient()
 }
