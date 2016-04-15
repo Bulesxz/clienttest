@@ -2,21 +2,21 @@
 package main
 
 import (
-	"sync"
-	"sync/atomic"
 	"encoding/json"
 	"fmt"
 	"github.com/Bulesxz/go/base"
+	log "github.com/Bulesxz/go/logger"
 	"github.com/Bulesxz/go/net"
 	"github.com/Bulesxz/go/pake"
-	log "github.com/Bulesxz/go/logger"
+	"sync"
+	"sync/atomic"
 	"time"
 )
 
 var seq uint64
 
-func NewPake() (*pake.Messages,[]byte,pake.LoginReq,uint64){
-	id := atomic.AddUint64(&seq,1)
+func NewPake() (*pake.Messages, []byte, pake.LoginReq, uint64) {
+	id := atomic.AddUint64(&seq, 1)
 	login := pake.LoginReq{int32(id), 2, "sxz"}
 	ctx := pake.ContextInfo{}
 	ctx.SetSess("session")
@@ -26,11 +26,11 @@ func NewPake() (*pake.Messages,[]byte,pake.LoginReq,uint64){
 	mes := &pake.Messages{ctx}
 	b, _ := json.Marshal(login)
 	buf := mes.Encode(b)
-	return mes,buf,login,id
+	return mes, buf, login, id
 }
 
-func testBenchmark(){
-	nclient:=20
+func testBenchmark() {
+	nclient := 20
 	connChan := make(chan *net.Client, nclient)
 	for i := 0; i < nclient; i++ {
 		c := net.NewClient("tcp", "127.0.0.1:9000")
@@ -53,15 +53,15 @@ func testBenchmark(){
 			fmt.Println("no client")
 			return false
 		}
-		mes,buf,_,id:=NewPake()
-		
+		mes, buf, _, id := NewPake()
+
 		recvBuf, err := c.SendTimeOut(3*time.Second, buf)
 		if err != nil {
 			//fmt.Println("c.Send err|", err)
 			log.Error("c.Send err|", err)
 			return false
 		}
-		
+
 		//fmt.Println("login:",login,"id",id)
 		if recvBuf != nil {
 			var rsp pake.LoginRsp
@@ -71,9 +71,9 @@ func testBenchmark(){
 				fmt.Println(err)
 				return false
 			}
-			
+
 			//fmt.Println("login:",login,"rsp:",rsp,"session seq:",p.GetSession(),"id",id)
-			if p.GetSession().Seq != id || rsp.A!=int32(id){
+			if p.GetSession().Seq != id || rsp.A != int32(id) {
 				fmt.Println("rsp:", rsp)
 				return false
 			}
@@ -84,15 +84,14 @@ func testBenchmark(){
 		connChan <- c
 		return true
 	}
-	
+
 	var n int32 = 100000
 	usetime, failedNum := base.BenchmarkFunc(n, nclient, f)
 	fmt.Println("proxy usetime=", usetime, " failedNum=", failedNum, " qps=", float64(n)/(usetime/1000), " tps=", (usetime/float64(n))/1000)
 }
 
+func testerrpack() {
 
-func testerrpack(){
-		
 	//同一个连接并发发包
 	c := net.NewClient("tcp", "127.0.0.1:9000")
 	err := c.ConnetcTimeOut(1 * time.Second)
@@ -102,26 +101,26 @@ func testerrpack(){
 		return
 	}
 	defer c.Close()
-	
+
 	fmt.Println("************同一个连接并发发包**************")
-	var failNum int32=0
+	var failNum int32 = 0
 	var wg sync.WaitGroup
-	for i:=0;i<20;i++{
+	for i := 0; i < 20; i++ {
 		wg.Add(1)
-		go func (){
-			fail:= errpack(&wg,c)
-			if fail==false {
-				atomic.AddInt32(&failNum,1)
+		go func() {
+			fail := errpack(&wg, c)
+			if fail == false {
+				atomic.AddInt32(&failNum, 1)
 			}
 		}()
 	}
 	wg.Wait()
-	fmt.Println("failNum ",failNum)
+	fmt.Println("failNum ", failNum)
 }
 
-func errpack(wg *sync.WaitGroup,c *net.Client) bool{
+func errpack(wg *sync.WaitGroup, c *net.Client) bool {
 	defer wg.Done()
-	mes,buf,login,id:=NewPake()
+	mes, buf, login, id := NewPake()
 	recvBuf, err := c.SendTimeOut(3*time.Second, buf)
 	if err != nil {
 		fmt.Println("c.Send err|", err)
@@ -136,33 +135,52 @@ func errpack(wg *sync.WaitGroup,c *net.Client) bool{
 			fmt.Println(err)
 			return false
 		}
-		if p.GetSession().Seq != id{
-			fmt.Println("login:",login,"rsp:",rsp,"id:",id,"rsp seq:",p.GetSession().Seq)
+		if p.GetSession().Seq != id {
+			fmt.Println("login:", login, "rsp:", rsp, "id:", id, "rsp seq:", p.GetSession().Seq)
 			//fmt.Println("login:",login,"|rsp:",p,id)
 			return false
 		}
-		
+
 	} else {
 		fmt.Println("recvBuf == nil")
 		return false
 	}
-	return  true
+	return true
 }
 
-func testRcClient(){
-	mes :=&pake.Messages{}
-	rcclient :=net.NewRcClient("tcp","127.0.0.1:9000")
-	login := pake.LoginReq{1, 2, "sxz"}
-	net.InitPake(mes,pake.LoginId)
-	err:=rcclient.ConnetcTimeOut(time.Second*5)
-	if err!=nil{
+func testRcClient() {
+	rcclient := net.NewRcClient("tcp", "127.0.0.1:9000")
+	err := rcclient.ConnetcTimeOut(time.Second * 5)
+	if err != nil {
+		fmt.Println("err", err)
 		log.Error(err)
 		return
 	}
-	
-	rsp,err:=rcclient.Call(mes,login,time.Millisecond*10)
-	fmt.Println(rsp,err)
-	
+
+	for i := 1; i < 11; i++ {
+		go func(j int) {
+			fmt.Println(j)
+			mes := &pake.Messages{}
+			login := pake.LoginReq{0, 0, "0"}
+			id := net.InitPake(mes, pake.LoginId)
+
+			//
+			msg, err := json.Marshal(login)
+			if err != nil {
+				log.Error(err)
+				return
+			}
+			sendData := mes.Encode(msg)
+			fmt.Println("mes", mes.Context)
+			fmt.Println("id", id, "pake", sendData)
+
+			//rsp,err:=rcclient.Call(mes,login,time.Millisecond*10)
+			//logrsp :=pake.LoginRsp{}
+			//json.Unmarshal(rsp.(*pake.Pake).GetBody(),&logrsp)
+			//fmt.Println(logrsp,err)
+		}(i)
+	}
+
 }
 func main() {
 
@@ -172,6 +190,6 @@ func main() {
 
 	//testBenchmark()
 	//testerrpack()
-
 	testRcClient()
+	time.Sleep(time.Second * 10000)
 }
