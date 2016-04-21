@@ -157,28 +157,36 @@ func testRcClient() {
 		return
 	}
 
-	for i := 1; i < 11; i++ {
-		go func(j int) {
+	for i := 1; i <10; i++ {
+		go func(j int32) {
 			fmt.Println(j)
 			mes := &pake.Messages{}
-			login := pake.LoginReq{0, 0, "0"}
+			login := pake.LoginReq{j, j, "1"}
 			id := net.InitPake(mes, pake.LoginId)
 
 			//
-			msg, err := json.Marshal(login)
+			/*msg, err := json.Marshal(login)
 			if err != nil {
 				log.Error(err)
 				return
-			}
-			sendData := mes.Encode(msg)
-			fmt.Println("mes", mes.Context)
-			fmt.Println("id", id, "pake", sendData)
+			}*/
+			
+			//sendData := mes.Encode(msg)
+			//fmt.Println("mes", mes.Context)
+			//fmt.Println("id", id, "pake", sendData)
 
-			//rsp,err:=rcclient.Call(mes,login,time.Millisecond*10)
-			//logrsp :=pake.LoginRsp{}
-			//json.Unmarshal(rsp.(*pake.Pake).GetBody(),&logrsp)
-			//fmt.Println(logrsp,err)
-		}(i)
+			rsp,err:=rcclient.Call(mes,login,time.Millisecond*1000)
+			//fmt.Println("rsp:",rsp)
+			logrsp :=pake.LoginRsp{}
+			//fmt.Println("req:",msg,"body:",rsp.(*pake.Pake).GetBody())
+			if err!=nil {
+				fmt.Println("rsp:",rsp,"err:",err)
+				return
+			}
+			//fmt.Println("rrrrrrrsp:",rsp,"err:",err)
+			json.Unmarshal(rsp.(*pake.Pake).GetBody(),&logrsp)
+			fmt.Println(id,",",login,",",logrsp,err)
+		}(int32(i))
 	}
 
 }
@@ -191,5 +199,5 @@ func main() {
 	//testBenchmark()
 	//testerrpack()
 	testRcClient()
-	time.Sleep(time.Second * 10000)
+	time.Sleep(time.Second * 10)
 }
