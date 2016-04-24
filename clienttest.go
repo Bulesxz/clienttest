@@ -157,13 +157,13 @@ func testRcClient() {
 		return
 	}
 
-	for i := 1; i <30000; i++ {
+	for i := 1; i <10000; i++ {
 		go func(j int32) {
 			//fmt.Println(j)
 			mes := &pake.Messages{}
 			login := pake.LoginReq{j, j, "1"}
 			id := net.InitPake(mes, pake.LoginId)
-
+			//fmt.Println("id,",id)
 			//
 			/*msg, err := json.Marshal(login)
 			if err != nil {
@@ -175,7 +175,7 @@ func testRcClient() {
 			//fmt.Println("mes", mes.Context)
 			//fmt.Println("id", id, "pake", sendData)
 
-			rsp,err:=rcclient.Call(mes,login,time.Millisecond * 5)
+			rsp,err:=rcclient.Call(mes,login,time.Millisecond * 1000)
 			//fmt.Println("rsp:",rsp,"err",err)
 			logrsp :=pake.LoginRsp{}
 			//fmt.Println("req:",msg,"body:",rsp.(*pake.Pake).GetBody())
@@ -199,11 +199,11 @@ func main() {
 
 	fmt.Println("start")
 
-	net.InitTimeWheel(time.Millisecond*1,100) //
+	net.InitTimeWheel(time.Millisecond*10,1000) //
 	go net.GloablTimingWheel.Run()
 
 	//testBenchmark()
 	//testerrpack()
 	testRcClient()
-	time.Sleep(time.Second * 300)
+	time.Sleep(time.Second * 30)
 }
